@@ -1,7 +1,7 @@
 # nodejs-k8s-cicd
     
-* Create Jenkins pipline 
-* Create Docker container with Jenkins pipline
+* Create Jenkins pipeline 
+* Create Docker container with Jenkins pipeline
 * Push to Nexus Docker Repositry with Jenkins
 * Create K8s Deploymentfile with node port
 * deploy the docker container that you build with Version # in K8s.
