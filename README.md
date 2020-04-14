@@ -1,5 +1,6 @@
 # nodejs-k8s-cicd
-    
+ 
+* Fork repository 
 * Create Jenkins pipeline 
 * Create Docker container with Jenkins pipeline
 * Push to Nexus Docker Repositry with Jenkins
